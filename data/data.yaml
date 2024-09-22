@@ -1,0 +1,9 @@
+#path: ../datasets/roboflow
+#path: ../datasets
+
+train: D:/Study/Model_code/YOLOv5-Lite-master/datasets/train/images
+val: D:/Study/Model_code/YOLOv5-Lite-master/datasets/val/images
+test: D:/Study/Model_code/YOLOv5-Lite-master/datasets/test/images
+
+nc: 2
+names: ['mask', 'no-mask']
